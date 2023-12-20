@@ -1,0 +1,22 @@
+@media screen and (width <= 500px) {
+    .burgerbar{
+        display: block;
+    }
+    .MainChild{
+        display: none;
+    }
+    .search{
+        display: none;
+    }
+    .header{
+        padding-left: 16px;
+        gap: 96px;
+    }
+    .head-first-section{
+        display: flex;
+        gap: 16px;
+    }
+    .search-icon{
+        display: block;
+    }
+}
