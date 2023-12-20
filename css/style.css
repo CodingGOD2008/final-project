@@ -99,14 +99,10 @@ body{
 .mainbutton p{
     color: #FFF;
     font-family: Satoshi;
-    transition: all 1s ease;
-}
-.mainanchor {
-    text-decoration: none;
-    
+    transition: all 0.5s ease;
 }
 .mainbutton:hover{
-    background-color: #FFF;
+    background-color: #fff;
 }
 .mainbutton p:hover{
     color: #000;
