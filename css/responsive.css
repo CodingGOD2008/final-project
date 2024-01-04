@@ -10,7 +10,7 @@
     }
     .header{
         padding-left: 16px;
-        gap: 96px;
+        gap: 50px;
     }
     .head-first-section{
         display: flex;
@@ -18,5 +18,29 @@
     }
     .search-icon{
         display: block;
+    }
+    .main{
+        height: 853px;
+        padding: 40px 16px;
+        background-image: none;
+        background-color: #F2F0F1;
+    }
+    .text{
+        width: 315px;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 34px;
+    }
+    .paragraph{
+        width: 358px;
+    }
+    .mainbutton{
+        width: 358px;
+    }
+    .statistics{
+        display: none;        
+    }
+    .brands{
+        display: none;
     }
 }

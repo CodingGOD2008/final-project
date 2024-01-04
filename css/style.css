@@ -109,6 +109,7 @@ body{
 }
 .mainbutton:hover{
     background-color: #fff;
+    border-color: white;
 }
 .mainbutton p:hover{
     color: #000;
