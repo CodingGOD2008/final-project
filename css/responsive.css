@@ -20,7 +20,7 @@
         display: block;
     }
     .main{
-        height: 853px;
+        height: 450px;
         padding: 40px 16px;
         background-image: none;
         background-color: #F2F0F1;
@@ -42,5 +42,8 @@
     }
     .brands{
         display: none;
+    }
+    .imagediv{
+        display: block;
     }
 }

@@ -173,3 +173,25 @@ body{
     width: 206.788px;
     height: 33.348px;
 }
+.products_header{
+    margin-top: 72px;
+}
+.products_paragraph{
+    color: #000;
+    text-align: center;
+    font-family: integral;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.catalog{
+    display: flex;
+    justify-content: space-evenly;
+}
+.catalog div{
+    height: 260px;
+    width: 294px;
+    overflow: hidden;
+    border-radius: 10%;
+}
