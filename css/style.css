@@ -217,3 +217,14 @@ body{
     border: 1px solid rgba(0, 0, 0, 0.10);
     margin: auto;
 }
+.top_selling{
+    height: 621px;
+    width: 100%;
+    margin-top: 64px;
+    border-top: 3px dashed #f0eef0;
+}
+.top_selling_header{
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+}
