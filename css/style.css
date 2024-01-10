@@ -228,3 +228,23 @@ body{
     justify-content: center;
     margin-top: 64px;
 }
+.section{
+    display: flex;
+    justify-content: center;
+}
+.dress_style{
+    width: 1239px;
+    height: 866px;
+    align-items: center;
+    border-radius: 40px;
+    background: #F0F0F0;
+    margin-top: 80px;
+}
+.dress_style_paragraph{
+    margin-top: 70px;
+}
+.styles{
+    width: calc(492px + 646px);
+    height: 592px;
+    background-color: red;
+}
