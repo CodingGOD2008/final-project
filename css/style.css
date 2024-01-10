@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Satoshi;
 }
 body{
     margin: 0;
@@ -188,10 +189,31 @@ body{
 .catalog{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 55px;
 }
-.catalog div{
-    height: 260px;
-    width: 294px;
+.card{
+    width: 296px;
+    height: 450px;
+    padding-top: 10px;
+}
+.card_image{
+    border-radius: 30px;
     overflow: hidden;
-    border-radius: 10%;
+}
+.product_name{
+    color: #000;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.button2{
+    width: 218px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 62px;
+    border: 1px solid rgba(0, 0, 0, 0.10);
+    margin: auto;
 }

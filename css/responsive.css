@@ -46,4 +46,11 @@
     .imagediv{
         display: block;
     }
+    .products_paragraph{
+        font-size: 30px;
+    }
+    .catalog{
+       overflow-x: auto;
+       gap: 10px;
+    }
 }
